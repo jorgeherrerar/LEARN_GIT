@@ -3,6 +3,6 @@ mylist.extend('CDE')
 mylist.append('FGHI')
 print(mylist)
 
-mylist.pop()
+n = mylist.pop()
 
 print(mylist)
